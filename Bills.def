@@ -1,0 +1,29 @@
+;***************************************************************************;
+;******************* Created in Fighter Factory Ultimate *******************;
+;*******************      http://www.virtualltek.com     *******************;
+;***************************************************************************;
+
+[Info]
+name ="Bills"
+displayname ="Bills"
+versiondate =19/03/2020
+mugenversion = 
+author ="Bills Dios"
+pal.defaults =1
+
+[Files]
+sprite =Bills.sff
+anim =Bills.air
+sound =Bills.snd
+cmd =Bills.cmd
+cns =Bills.cns
+stcommon =common1.cns
+st =Bills.cns
+pal1=1.act
+st1 =IA.cns
+st2=Especiales.cns
+st3=Supers.cns
+
+[Arcade]
+intro.storyboard = 
+ending.storyboard = 
