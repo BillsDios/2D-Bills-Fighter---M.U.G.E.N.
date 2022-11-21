@@ -22,25 +22,25 @@ https://www.youtube.com/watch?v=SuGxN-Zk82A&ab_channel=BillsDios
 
 * **[common1.cns]**: This file is the programming code for the character's basic movements such as standing, crouching, walking, running, jumping and falling.
 
-* **[Especiales.cns]**: This file is the programming code for the character's special powers in the base state and Ohzaru Mode of the anime.
+* **[Especiales.cns]**: This file is the programming code for the character's special powers in the base state of the anime.
 
 * **[IA.cns]**: This file is the programming code for the character's A.I. (Artificial Intelligence).
 
-* **[Kid_Goku.def]**: This file is the definition file and calls the rest of the character files, such as code, sprites, sounds, palettes, commands and others.
+* **[Bills.def]**: This file is the definition file and calls the rest of the character files, such as code, sprites, sounds, palettes, commands and others.
 
-* **[Kid_Goku.act]**: This file stores the color palette of the character.
+* **[1.act]**: This file stores the color palette of the character.
 
-* **[Kid_Goku.air]**: This file stores all the animations of the character.
+* **[Bills.air]**: This file stores all the animations of the character.
 
-* **[Kid_Goku.cmd]**: This file contains the logic and the calling of certain programming blocks by means of commands, such as keyboard or joystick.
+* **[Bills.cmd]**: This file contains the logic and the calling of certain programming blocks by means of commands, such as keyboard or joystick.
 
-* **[Kid_Goku.cns]**: This file is the programming code for the character's attacks and combos in the base state of the anime.
+* **[Bills.cns]**: This file is the programming code for the character's attacks and combos in the base state of the anime.
 
-* **[Kid_Goku.sff]**: This file stores all the sprites of the character.
+* **[Bills.sff]**: This file stores all the sprites of the character.
 
-* **[Kid_Goku.snd]**: This file stores all the sounds of the character.
+* **[Bills.snd]**: This file stores all the sounds of the character.
 
-* **[Supers.cns]**: This file is the programming code for the character's super powers in the base state and Ohzaru Mode of the anime.
+* **[Supers.cns]**: This file is the programming code for the character's super powers in the base state of the anime.
 
 ## Hiring 🤝🏿
 
