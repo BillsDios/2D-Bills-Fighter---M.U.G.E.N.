@@ -6,7 +6,7 @@ A 2D fighter based on Bills (Beerus) from Dragon Ball. Functional for the M.U.G.
 
     -[LinkedIn](https://www.linkedin.com/in/sanchezluismachinelearning/)
     
-    -[YouTube](https://www.youtube.com/@billsdios)
+    -[YouTube](https://www.youtube.com/@billslasa)
 
 * **SugexsJUS** -> Bills sprites
 
